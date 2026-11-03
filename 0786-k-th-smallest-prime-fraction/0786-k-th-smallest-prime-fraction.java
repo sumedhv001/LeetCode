@@ -1,25 +1,38 @@
-class Frac{
-    int n;
-    int d;
-    double val;
-    public Frac(int n,int d,double val){
-        this.n=n;
-        this.d=d;
-        this.val=val;
-    }
-}
 class Solution {
     public int[] kthSmallestPrimeFraction(int[] arr, int k) {
-        PriorityQueue<Frac> pq=new PriorityQueue<>((a,b)->Double.compare(a.val,b.val));
-        for(int i=0;i<arr.length;i++){
-            for(int j=i+1;j<arr.length;j++){
-                pq.offer(new Frac(arr[i],arr[j],(double)arr[i]/(double)arr[j]));
+        double l=0.0;
+        double r=1.0;
+        int n=arr.length;
+        while(l<r){
+            double mid=(l+r)/2;
+            double maxfrac=0.0;
+            int count=0;
+            int nidx=-1;
+            int denidx=-1;
+            int j=1;
+            for(int i=0;i<arr.length;i++){
+                while(j<arr.length&&((double)arr[i]/arr[j])>=mid){
+                    j++;
+                }
+                count+=arr.length-j;
+                if(j==arr.length){
+                    break;
+                }
+                double frac=(double)arr[i]/arr[j];
+                if(frac>maxfrac){
+                    nidx=i;
+                    denidx=j;
+                    maxfrac=frac;
+                }
+            }
+            if(count==k){
+                return new int[]{arr[nidx],arr[denidx]};
+            }else if(count<k){
+                l=mid;
+            }else{
+                r=mid;
             }
         }
-        Frac res=null;
-        for(int i=0;i<k;i++){
-            res=pq.poll();
-        }
-        return new int[]{res.n,res.d};
+        return new int[]{};
     }
 }
