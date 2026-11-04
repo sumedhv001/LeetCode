@@ -811,6 +811,7 @@
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3379-transformed-array](https://github.com/HeckerSV01/LeetCode/tree/master/3379-transformed-array) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HeckerSV01/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HeckerSV01/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -987,6 +988,7 @@
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/HeckerSV01/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HeckerSV01/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HeckerSV01/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HeckerSV01/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/HeckerSV01/LeetCode/tree/master/3665-twisted-mirror-path-count) |
@@ -1235,6 +1237,7 @@
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/HeckerSV01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/HeckerSV01/LeetCode/tree/master/2540-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HeckerSV01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3479-fruits-into-baskets-iii](https://github.com/HeckerSV01/LeetCode/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/HeckerSV01/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HeckerSV01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1650,6 +1653,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HeckerSV01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
