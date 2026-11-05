@@ -170,6 +170,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/HeckerSV01/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
 | [1048-longest-string-chain](https://github.com/HeckerSV01/LeetCode/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/HeckerSV01/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -612,6 +613,7 @@
 | [1366-rank-teams-by-votes](https://github.com/HeckerSV01/LeetCode/tree/master/1366-rank-teams-by-votes) |
 | [1380-number-of-closed-islands](https://github.com/HeckerSV01/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/HeckerSV01/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1395-count-number-of-teams](https://github.com/HeckerSV01/LeetCode/tree/master/1395-count-number-of-teams) |
@@ -1218,6 +1220,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/HeckerSV01/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/HeckerSV01/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HeckerSV01/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HeckerSV01/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HeckerSV01/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HeckerSV01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1599,6 +1602,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/HeckerSV01/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HeckerSV01/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/HeckerSV01/LeetCode/tree/master/1366-rank-teams-by-votes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HeckerSV01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/HeckerSV01/LeetCode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HeckerSV01/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
