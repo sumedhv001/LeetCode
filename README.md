@@ -680,6 +680,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HeckerSV01/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/HeckerSV01/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HeckerSV01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/HeckerSV01/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/HeckerSV01/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -1697,6 +1698,7 @@
 | [1753-maximum-score-from-removing-stones](https://github.com/HeckerSV01/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1845-seat-reservation-manager](https://github.com/HeckerSV01/LeetCode/tree/master/1845-seat-reservation-manager) |
+| [1882-process-tasks-using-servers](https://github.com/HeckerSV01/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2023-design-movie-rental-system](https://github.com/HeckerSV01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2182-construct-string-with-repeat-limit](https://github.com/HeckerSV01/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2207-sequentially-ordinal-rank-tracker](https://github.com/HeckerSV01/LeetCode/tree/master/2207-sequentially-ordinal-rank-tracker) |
