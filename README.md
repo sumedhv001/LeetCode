@@ -267,6 +267,7 @@
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/HeckerSV01/LeetCode/tree/master/0784-letter-case-permutation) |
+| [0791-custom-sort-string](https://github.com/HeckerSV01/LeetCode/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/HeckerSV01/LeetCode/tree/master/0796-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0856-score-of-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -1591,6 +1592,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/HeckerSV01/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/HeckerSV01/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0791-custom-sort-string](https://github.com/HeckerSV01/LeetCode/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/HeckerSV01/LeetCode/tree/master/0846-hand-of-straights) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HeckerSV01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -1859,6 +1861,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/HeckerSV01/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/HeckerSV01/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/HeckerSV01/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/HeckerSV01/LeetCode/tree/master/0791-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0835-linked-list-components](https://github.com/HeckerSV01/LeetCode/tree/master/0835-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/HeckerSV01/LeetCode/tree/master/0846-hand-of-straights) |
