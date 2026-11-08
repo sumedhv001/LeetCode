@@ -270,6 +270,7 @@
 | [0796-rotate-string](https://github.com/HeckerSV01/LeetCode/tree/master/0796-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/HeckerSV01/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0856-score-of-parentheses](https://github.com/HeckerSV01/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HeckerSV01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-find-and-replace-pattern](https://github.com/HeckerSV01/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -547,6 +548,7 @@
 | [0877-stone-game](https://github.com/HeckerSV01/LeetCode/tree/master/0877-stone-game) |
 | [0881-loud-and-rich](https://github.com/HeckerSV01/LeetCode/tree/master/0881-loud-and-rich) |
 | [0885-spiral-matrix-iii](https://github.com/HeckerSV01/LeetCode/tree/master/0885-spiral-matrix-iii) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/HeckerSV01/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
@@ -1588,6 +1590,7 @@
 | [0721-accounts-merge](https://github.com/HeckerSV01/LeetCode/tree/master/0721-accounts-merge) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/HeckerSV01/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/HeckerSV01/LeetCode/tree/master/0846-hand-of-straights) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HeckerSV01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/HeckerSV01/LeetCode/tree/master/0969-pancake-sorting) |
@@ -1858,6 +1861,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/HeckerSV01/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/HeckerSV01/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/HeckerSV01/LeetCode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HeckerSV01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/HeckerSV01/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0916-word-subsets](https://github.com/HeckerSV01/LeetCode/tree/master/0916-word-subsets) |
