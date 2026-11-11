@@ -124,6 +124,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HeckerSV01/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/HeckerSV01/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HeckerSV01/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/HeckerSV01/LeetCode/tree/master/3830-find-closest-person) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HeckerSV01/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1182,6 +1183,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HeckerSV01/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HeckerSV01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HeckerSV01/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/HeckerSV01/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
