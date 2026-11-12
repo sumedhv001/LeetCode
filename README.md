@@ -668,6 +668,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HeckerSV01/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/HeckerSV01/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/HeckerSV01/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/HeckerSV01/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HeckerSV01/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/HeckerSV01/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1146,6 +1147,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/HeckerSV01/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HeckerSV01/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/HeckerSV01/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/HeckerSV01/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1753-maximum-score-from-removing-stones](https://github.com/HeckerSV01/LeetCode/tree/master/1753-maximum-score-from-removing-stones) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1792-maximum-average-pass-ratio](https://github.com/HeckerSV01/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
@@ -1925,6 +1927,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HeckerSV01/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HeckerSV01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1722-throne-inheritance](https://github.com/HeckerSV01/LeetCode/tree/master/1722-throne-inheritance) |
+| [1733-minimum-number-of-people-to-teach](https://github.com/HeckerSV01/LeetCode/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1752-arithmetic-subarrays](https://github.com/HeckerSV01/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/HeckerSV01/LeetCode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HeckerSV01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
