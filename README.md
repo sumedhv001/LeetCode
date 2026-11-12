@@ -807,6 +807,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HeckerSV01/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/HeckerSV01/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-find-words-containing-character](https://github.com/HeckerSV01/LeetCode/tree/master/3194-find-words-containing-character) |
