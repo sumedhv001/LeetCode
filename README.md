@@ -299,6 +299,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/HeckerSV01/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1400-construct-k-palindrome-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/HeckerSV01/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1405-longest-happy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1405-longest-happy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/HeckerSV01/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HeckerSV01/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HeckerSV01/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1133,6 +1134,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/HeckerSV01/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/HeckerSV01/LeetCode/tree/master/1400-construct-k-palindrome-strings) |
 | [1402-reducing-dishes](https://github.com/HeckerSV01/LeetCode/tree/master/1402-reducing-dishes) |
+| [1405-longest-happy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1405-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HeckerSV01/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/HeckerSV01/LeetCode/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1448-maximum-69-number](https://github.com/HeckerSV01/LeetCode/tree/master/1448-maximum-69-number) |
@@ -1714,6 +1716,7 @@
 | [0948-sort-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/HeckerSV01/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/HeckerSV01/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1405-longest-happy-string](https://github.com/HeckerSV01/LeetCode/tree/master/1405-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/HeckerSV01/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HeckerSV01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
