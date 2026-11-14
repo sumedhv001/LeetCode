@@ -826,6 +826,7 @@
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/HeckerSV01/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HeckerSV01/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/HeckerSV01/LeetCode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/HeckerSV01/LeetCode/tree/master/3379-transformed-array) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/HeckerSV01/LeetCode/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -2077,6 +2078,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HeckerSV01/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HeckerSV01/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HeckerSV01/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/HeckerSV01/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/HeckerSV01/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -2743,6 +2745,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HeckerSV01/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HeckerSV01/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/HeckerSV01/LeetCode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HeckerSV01/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Trie
 |  |
