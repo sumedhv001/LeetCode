@@ -118,6 +118,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HeckerSV01/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HeckerSV01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/HeckerSV01/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HeckerSV01/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/HeckerSV01/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HeckerSV01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -852,6 +853,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/HeckerSV01/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HeckerSV01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HeckerSV01/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/HeckerSV01/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1196,6 +1198,7 @@
 | [3151-minimum-processing-time](https://github.com/HeckerSV01/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/HeckerSV01/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/HeckerSV01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/HeckerSV01/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HeckerSV01/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1695,6 +1698,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HeckerSV01/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/HeckerSV01/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/HeckerSV01/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HeckerSV01/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/HeckerSV01/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/HeckerSV01/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -3118,6 +3122,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HeckerSV01/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/HeckerSV01/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/HeckerSV01/LeetCode/tree/master/1872-stone-game-viii) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/HeckerSV01/LeetCode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Probability and Statistics
 |  |
 | ------- |
