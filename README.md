@@ -3222,4 +3222,8 @@
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/HeckerSV01/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/HeckerSV01/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
